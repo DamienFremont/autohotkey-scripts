@@ -20,23 +20,23 @@ Press <kbd>Caps/MAJ</kbd> to activate these scripts.
 
 ### AutoHotkey_arrows-to-wasd-on-capslock
 
-![image](AutoHotkey_arrows-to-wasd-on-capslock.png)
+![image](scripts/AutoHotkey_arrows-to-wasd-on-capslock.png)
 
 ### AutoHotkey_ctrl-h-show-hidden-files
 
-![image](AutoHotkey_ctrl-h-show-hidden-files.png)
+![image](scripts/AutoHotkey_ctrl-h-show-hidden-files.png)
 
 ### AutoHotkey_functionkeys-to-mouseclick
 
-![image](AutoHotkey_functionkeys-to-mouseclick.png)
+![image](scripts/AutoHotkey_functionkeys-to-mouseclick.png)
 
 ### AutoHotkey_functionkeys-to-mouseclick
 
-![image](AutoHotkey_functionkeys-to-mouseclick.png)
-   
+![image](scripts/AutoHotkey_functionkeys-to-mouseclick.png)
+
 ### AutoHotkey_numpad-to-keypad-on-capslock
 
-![image](AutoHotkey_numpad-to-keypad-on-capslock.png)
+![image](scripts/AutoHotkey_numpad-to-keypad-on-capslock.png)
 
 
 ## How do I put my hotkeys and hotstrings into effect automatically every time I start my PC?
