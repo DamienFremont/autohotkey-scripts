@@ -1,14 +1,10 @@
 # autohotkey-scripts
 
-My personnals AHK scripts for everyday use.
-
-topics: 
+My personnals AHK scripts for everyday use. Topics: 
  [automation](https://github.com/topics/automation) 
  [scripting](https://github.com/topics/scripting) 
  [hotkeys](https://github.com/topics/hotkeys) 
  [autohotkey](https://github.com/topics/autohotkey) 
-
----
 
 ## Requirement
 
