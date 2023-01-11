@@ -6,6 +6,10 @@ My personnals AHK scripts for everyday use. Topics:
  [hotkeys](https://github.com/topics/hotkeys) 
  [autohotkey](https://github.com/topics/autohotkey) 
 
+![image](docs/keyboard.jpg)
+
+----
+
 ## Requirement
 
 Install AHK/AutoHotKey for Windows.
