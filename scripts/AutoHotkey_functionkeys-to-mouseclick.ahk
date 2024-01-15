@@ -2,7 +2,7 @@
 
 #If GetKeyState("Capslock","T")
 
-	//`::Send ^W
+	`::MouseClick, left
 
 	// MOUSE CLICKS
 	F3::MouseClick, left
@@ -10,19 +10,22 @@
 	F1::MouseClick, right
 
 	// NAV
-	F4::WheelDown
-	F5::WheelUp
+	F6::WheelDown
+	F7::WheelUp
 
 	// DOUBLE CLICK
-//	F4::
-//	Sleep, 100
-//	Click
-//	Sleep, 100
-//	click
-//	return
+	F4::
+	Sleep, 100
+	Click
+	Sleep, 100
+	click
+	return
 
-	// CLOSE TAB
-	Esc::Send ^W
+	// MOUSE NAV BTNS
+	// r::!Right
+	// f::!Left
+
+
 
 // MOUSE CLICKS
 // /::MouseClick, left

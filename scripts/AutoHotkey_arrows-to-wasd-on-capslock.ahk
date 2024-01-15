@@ -3,3 +3,6 @@ w::up
 s::down
 a::left
 d::right
+
+f::PgDn
+r::PgUp
