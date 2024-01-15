@@ -34,6 +34,10 @@ Press <kbd>Caps/MAJ</kbd> to activate these scripts.
 
 ![image](scripts/AutoHotkey_F8-to-printscreen-on-capslock.jpg)
 
+### AutoHotkey_dollar-to-euro
+
+![image](scripts/AutoHotkey_dollar-to-euro.jpg)
+
 ### AutoHotkey_numpad-to-keypad-on-capslock
 
 ![image](scripts/AutoHotkey_numpad-to-keypad-on-capslock.jpg)
