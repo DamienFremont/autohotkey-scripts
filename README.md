@@ -62,9 +62,16 @@ There are several ways to make a script (or any program) launch automatically ev
 
 ## Release
 
+Requirement:
+- python
+
+Usage:
 ```python
 py .\tools\release.py
 ```
+Output:
+- `./release/AutoHotkey_DESKTOP.ahk`
+- `./release/AutoHotkey_LAPTOP.ahk`
 
 ## Links
 
