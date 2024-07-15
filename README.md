@@ -60,6 +60,12 @@ There are several ways to make a script (or any program) launch automatically ev
 
 ---
 
+## Release
+
+```python
+py .\tools\release.py
+```
+
 ## Links
 
 - [autohotkey.com](https://autohotkey.com)
