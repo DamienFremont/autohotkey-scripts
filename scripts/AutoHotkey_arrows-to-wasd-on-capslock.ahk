@@ -1,8 +1,7 @@
 #CommentFlag //
-
 // AutoHotkey_functionkeys-to-mouseclick
 
-If GetKeyState("Capslock","T")
+#If GetKeyState("Capslock","T")
 {
     w::up
     s::down
