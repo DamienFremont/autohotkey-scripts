@@ -42,6 +42,9 @@ Press <kbd>Caps/MAJ</kbd> to activate these scripts.
 
 ![image](scripts/AutoHotkey_numpad-to-keypad-on-capslock.jpg)
 
+### AutoHotkey_arrows-to-navkeys
+
+![image](scripts/AutoHotkey_arrows-to-navkeys.jpg)
 
 ## How do I put my hotkeys and hotstrings into effect automatically every time I start my PC?
 
